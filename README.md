@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nurfaidzy from STIKOM Tunas Bangsa Pematangsiantar City majoring in INFORMATION SYSTEMS. Born in Pematangsiantar City, on March 12, 2000, currently 22 years old. I am personally ambitious, energetic, creative, honest, and responsible for work. I have knowledge in the fields of Cybersecurity, DevNet, Front-End, and Graphic Design which I found during my studies both off-campus and on campus. Can use Linux and Windows in my field. Familiar with Adobe Illustrator, Figma, Photoshop, and Premier software in work needs. The use of the Python programming language, Javascript in solving the algorithm of a program. I like to learn new things and add good group experience to a company.
+I'm Nurfaidzy happy with coding and happy with the logic.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurfaidzy)](https://github.com/anuraghazra/github-readme-stats)
 <!--
