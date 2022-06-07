@@ -3,11 +3,12 @@
 I'm Nurfaidzy happy with coding and happy with the logic.
 
 
-✨ Top language
+
+✨ Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurfaidzy)](https://github.com/nurfaidzy/github-readme-stats)
 
-✨ Github Stats
+✨ Top language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurfaidzy&layout=compact)](https://github.com/nurfaidzy/github-readme-stats)
 
