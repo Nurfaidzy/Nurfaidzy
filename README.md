@@ -42,7 +42,7 @@
 ###
 
 <center>
-<img align="right" height="150" src="https://i.pinimg.com/originals/06/fb/0f/06fb0f850b85f517ab415c9fd66bc73c.gif"  />
+<img align="center" height="150" src="https://i.pinimg.com/originals/06/fb/0f/06fb0f850b85f517ab415c9fd66bc73c.gif"  />
 </center>
 ###
 
