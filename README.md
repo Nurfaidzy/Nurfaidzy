@@ -1,6 +1,9 @@
-<h2 align="center">Hi 👋! My name is Nurfaidzy and I'm a Student in STIKOM Tunas Bangsa from Pematangsiantar City</h2>
+<h2 align="center">Nurfaidzy and I'm a background coder</h2>
 
-<p align="left">Hello, I am currently a fresh graduate student and want to learn to develop skills and potential that can be explored. I hope to be allowed to work with friends and share experiences.</p>
+<p align="left">Hello, I am currently Hate 10000000000000 line on one file... i reduce it...</p>
+
+<p align="left">code with a rule, but hate rule like eslint</p>
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/nurfaidzy/count.svg?"  />
