@@ -1,6 +1,6 @@
 <h2 align="center">Nurfaidzy and I'm a background coder</h2>
 
-<p align="left">Hello, I am currently Hate 10000000000000 line on one file... i reduce it...</p>
+<p align="left">No comment, the product must be fast delivered. i am just developer cant say anything. damnt. </p>
 
 <p align="left">code with a rule, but hate rule like eslint</p>
 
